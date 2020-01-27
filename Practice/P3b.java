@@ -1,5 +1,4 @@
 import java.util.*;
-
 public class P3b{
     public static void main(String args[]){
         if(args.length <4){

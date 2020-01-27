@@ -1,5 +1,5 @@
 import java.util.*;
-public class P3{
+public class P3a{
     public static void main(String args[]){
         Scanner scan=new Scanner(System.in);
         System.out.println("The given array is : ");
